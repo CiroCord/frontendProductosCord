@@ -1,5 +1,5 @@
 
-const API_URL = `http://localhost:10000/api/productoscord`;
+const API_URL = `https://proyectoproductos.onrender.com/api/productoscord`;
 
 async function fetchProductos() {
     try {
