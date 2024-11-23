@@ -83,7 +83,7 @@ input::focus, textarea::focus{
 }
 
 .form-editar{
-   
+    display: flex;
     flex-direction:row;
     gap: 10px;
     
