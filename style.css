@@ -108,7 +108,7 @@ footer{
     text-align: center;
 }
 
-#productos-container {
+#productos-container{
     display: flex;
     flex-wrap: wrap !important;
     max-width: 80%;
