@@ -91,7 +91,7 @@ input::focus, textarea::focus{
    
     flex-direction:row;
     gap: 10px;
-    width: 30%;
+    
     margin: 10px;
     margin-left: -2px;
 }
