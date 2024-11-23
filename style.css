@@ -13,15 +13,10 @@ header{
     font-weight: 800;
     margin: 0px;
 }
-main{
-display: flex;
-    flex-wrap: wrap;
-    max-width: 80%;
-    
-}
+
 #productos-container {
     display: flex;
-    flex-wrap: wrap;
+    flex-wrap: wrap !important;
     max-width: 80%;
     
 }
